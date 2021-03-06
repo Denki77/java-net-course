@@ -1,0 +1,21 @@
+2021-02-28 10:12:23 - Start client app
+2021-02-28 10:15:45 - Start client app
+2021-02-28 10:16:39 - Start client app
+2021-02-28 10:25:13 - Start client app
+2021-02-28 10:25:44 - Start client app
+2021-02-28 10:25:44 - Connect to srv
+2021-02-28 10:25:44 - Client error auth to app
+2021-02-28 10:26:32 - Start client app
+2021-02-28 10:26:32 - Connect to srv
+2021-02-28 10:27:03 - Start client app
+2021-02-28 10:27:03 - Connect to srv
+2021-02-28 04:49:24 - Start client app
+2021-02-28 04:49:24 - Connect to srv
+2021-02-28 04:52:05 - Start client app
+2021-02-28 04:52:05 - Connect to srv
+2021-02-28 04:52:40 - Start client app
+2021-02-28 04:52:40 - Connect to srv
+2021-02-28 04:53:45 - Start client app
+2021-02-28 04:53:45 - Connect to srv
+2021-02-28 04:54:07 - Start client app
+2021-02-28 04:54:07 - Connect to srv
